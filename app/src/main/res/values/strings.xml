@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IR Calculator</string>
+    <string name="button_text_add_income">Agregar</string>
+    <string name="main_title">Titulo Aqui</string>
+    <string name="main_description">Donec dignissim vulputate imperdiet. Sed dui elit, placerat non lectus et, lacinia fermentum enim. Integer et risus nec elit luctus vestibulum id at enim. Sed viverra lectus ipsum, ut posuere neque pretium nec.</string>
+</resources>
